@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flexbox-with-react/static/css/main.b078fbf7.css",
+    "main.js": "/flexbox-with-react/static/js/main.b62262d4.js",
+    "index.html": "/flexbox-with-react/index.html",
+    "main.b078fbf7.css.map": "/flexbox-with-react/static/css/main.b078fbf7.css.map",
+    "main.b62262d4.js.map": "/flexbox-with-react/static/js/main.b62262d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b078fbf7.css",
+    "static/js/main.b62262d4.js"
+  ]
+}
